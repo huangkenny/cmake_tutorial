@@ -5,14 +5,14 @@ This cmake project builds:
   - CTest
   
 To build
-  cd build
-  cmake ..
-  make
+  - cd build
+  - cmake ..
+  - make
   
 To test
-  cd build
-  make test
+  - cd build
+  - make test
 
 To run the executable
-  cd build
-  ./tutorial 25
+  - cd build
+  - ./tutorial 25
