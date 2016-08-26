@@ -1,0 +1,4 @@
+# This directory holds build artifacts. The shouldn't be add to git.
+*
+# We need a file to add the directory to git, so keep this file.
+!.gitignore
