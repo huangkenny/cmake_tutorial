@@ -9,6 +9,7 @@
 
 int main (int argc, char *argv[])
 {
+  printf("added a line here\n");
   if (argc < 2)
     {
     fprintf(stdout, "%s Version %d.%d\n",
