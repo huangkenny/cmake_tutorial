@@ -9,6 +9,7 @@
 
 int main (int argc, char *argv[])
 {
+  // printf("test pr 6");
   if (argc < 2)
     {
     fprintf(stdout, "%s Version %d.%d\n",
